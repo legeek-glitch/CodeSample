@@ -1,6 +1,7 @@
 --[[
 
 	Author: TheFish
+	It is not the best I've done but I like it
 
 ]]
 
